@@ -90,21 +90,27 @@ p {
 }
 
 /* Consolidated benefit-lead, benefit-brand, and benefit-cost */
-.benefit-lead, .benefit-brand, .benefit-cost 
+.benefit-lead,
+.benefit-brand,
+.benefit-cost 
 {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Consolidated benefit-lead h3, benefit-brand h3, benefit-cost h3*/
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3
 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Consolidated benefit-lead img, benefit-grand img, benefit-cost img */
-.benefit-lead img, .benefit-brand img, .benefit-cost img
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img
 {
     display: block;
     margin: 10px auto;
@@ -112,7 +118,9 @@ p {
 }
 
 /* Consolidated search-engine-optimization, online-reputation-management, social-media-marketing */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing
 {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,13 +131,17 @@ p {
 }
 
 /* Consolidated search-engine-optimization img, online-reputation-management img, social-media-marketing img */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img 
+.search-engine-optimization img,
+.online-reputation-management img, 
+.social-media-marketing img 
 {
     max-height: 200px;
 }
 
 /* Consolidated search-engine-optimization h2, online-reputation-management h2, social-media-marketing h2 */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2
 {
     margin-bottom: 20px;
     font-size: 36px;
